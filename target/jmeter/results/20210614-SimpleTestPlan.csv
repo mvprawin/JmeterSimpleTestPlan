@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1623649040929,2060,Home Page,200,OK,Jakarta Users 1-1,text,true,,21254,0,1,1,http://ant.apache.org/index.html,753,0,0
+1623649040929,753,Home Page-0,301,Moved Permanently,Jakarta Users 1-1,text,true,,456,0,1,1,http://jakarta.apache.org/ant/index.html,753,0,0
+1623649041684,1305,Home Page-1,200,OK,Jakarta Users 1-1,text,true,,20798,0,1,1,http://ant.apache.org/index.html,661,0,0
+1623649042995,2863,News Page,200,OK,Jakarta Users 1-1,text,true,,75967,0,1,1,http://ant.apache.org/antnews.html,597,0,0
+1623649042995,598,News Page-0,301,Moved Permanently,Jakarta Users 1-1,text,true,,460,0,1,1,http://jakarta.apache.org/ant/antnews.html,597,0,0
+1623649043593,2265,News Page-1,200,OK,Jakarta Users 1-1,text,true,,75507,0,1,1,http://ant.apache.org/antnews.html,665,0,0
+1623649045859,1417,Home Page,200,OK,Jakarta Users 1-1,text,true,,889,0,1,1,http://logging.apache.org/log4j/index.html,638,0,0
+1623649045859,639,Home Page-0,301,Moved Permanently,Jakarta Users 1-1,text,true,,476,0,1,1,http://jakarta.apache.org/log4j/index.html,638,0,0
+1623649046498,778,Home Page-1,200,OK,Jakarta Users 1-1,text,true,,413,0,1,1,http://logging.apache.org/log4j/index.html,778,0,0
+1623649047279,1461,History Page,404,Not Found,Jakarta Users 1-1,text,false,,850,0,1,1,http://logging.apache.org/log4j/docs/history.html,819,0,0
+1623649047279,819,History Page-0,301,Moved Permanently,Jakarta Users 1-1,text,true,,490,0,1,1,http://jakarta.apache.org/log4j/docs/history.html,819,0,0
+1623649048099,641,History Page-1,404,Not Found,Jakarta Users 1-1,text,false,,360,0,1,1,http://logging.apache.org/log4j/docs/history.html,641,0,0
